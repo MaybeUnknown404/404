@@ -1,0 +1,66 @@
+Saya punya project web Python (FastAPI + Jinja2).
+Aplikasi SUDAH BERJALAN dan BACKEND TIDAK BOLEH RUSAK.
+
+STRUKTUR PROJECT (WAJIB DIPERTAHANKAN):
+- main.py (JANGAN DIUBAH)
+- requirements.txt (JANGAN DIUBAH)
+- vercel.json (JANGAN DIUBAH)
+- templates/
+  home.html
+  latest.html
+  explore.html
+  genres.html
+  list.html
+  schedule.html
+  series.html
+  watch.html
+- static/style.css
+
+ATURAN PALING PENTING:
+1. JANGAN mengubah logic backend, route, API, atau main.py.
+2. JANGAN rename, memindahkan, atau menghapus file.
+3. JANGAN menghapus, mengganti, atau mengubah isi:
+   - {{ ... }}
+   - {% ... %}
+   - url_for(...)
+   - variable Jinja apa pun
+4. JANGAN mengubah:
+   - href="{{ ... }}"
+   - src="{{ ... }}"
+   - id, data-*, onclick, atau atribut yang berpotensi dipakai JS
+5. File watch.html SANGAT SENSITIF:
+   - Jangan mengubah logic video player
+   - Jangan mengubah script JS di dalamnya
+   - Hanya boleh menambah wrapper & styling visual
+
+BOLEH DILAKUKAN:
+- Mengubah struktur HTML (div, section, header, nav)
+- Menambahkan class CSS
+- Menambahkan elemen UI (badge, card, grid)
+- Memperindah tampilan tanpa mengganggu logic
+- Mengoptimalkan layout mobile & desktop
+
+BATASAN TEKNOLOGI:
+- Gunakan CSS murni
+- DILARANG pakai framework berat:
+  Bootstrap, Tailwind CDN, React, Vue
+- JS tambahan hanya jika benar-benar perlu (minimal)
+
+TARGET UI:
+- Modern, profesional, clean
+- Dark theme elegan (Netflix-like tapi unik)
+- Mobile-first (Android prioritas)
+- Tetap nyaman di desktop/PC
+- Ringan dan cepat (low-end device friendly)
+- Grid rapi, card konsisten, typography jelas
+
+OUTPUT:
+- Kode HTML lengkap untuk setiap file di templates/
+- 1 file static/style.css terbaru
+- Kode SIAP PAKAI, TANPA ERROR
+- Jangan sertakan penjelasan panjang
+
+PRIORITAS:
+Jika ada konflik antara estetika dan kestabilan aplikasi,
+SELALU PRIORITASKAN KESTABILAN APLIKASI.
+￼Enter
