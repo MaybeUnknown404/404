@@ -1,40 +1,36 @@
-==========PL-START-LIVE-EVENT==========
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
-#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://poster.starhubgo.com/poster/arsenal_stadium.jpg?w=960" group-title="🔴 Live Event",🔴 Arsenal vs Everton - Hub Premier 3
-http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier3/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzM1MTM3ODQsImV4cCI6MTc3MzUyMjc4NCwiaXAiOiIxODIuMS4yMzUuMTMyIiwidWEiOiJVVlJXTFUxRlJFbEJMekV1Tnk0ekxqWWdLRXhwYm5WNE8wRnVaSEp2YVdRZ1QxTTdJR2x1T3lBMWNtVnpNWEpuS1EiLCJpc3MiOiJxdHZfc2VydmljZSIsImlwdjYiOmZhbHNlfQ.i84-37sD_xic_r20LuR9t9uELMLlOMiy_k65HzEG_cM
+#EXTM3U
 
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",Worldcup Tv PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
-#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://poster.starhubgo.com/poster/ch214_bundesliga.jpg?w=960&h=540" group-title="🔴 Live Event",🔴 Hamburg vs Cologne
-http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/beINSports3NEW/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzM1MTM3ODQsImV4cCI6MTc3MzUyMjc4NCwiaXAiOiIxODIuMS4yMzUuMTMyIiwidWEiOiJVVlJXTFUxRlJFbEJMekV1Tnk0ekxqWWdLRXhwYm5WNE8wRnVaSEp2YVdRZ1QxTTdJR2x1T3lBMWNtVnpNWEpuS1EiLCJpc3MiOiJxdHZfc2VydmljZSIsImlwdjYiOmZhbHNlfQ.i84-37sD_xic_r20LuR9t9uELMLlOMiy_k65HzEG_cM
+#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://poster.starhubgo.com/poster/chelsea_stadium.jpg?w=960" group-title="🔴 Live Event",🔴 Chelsea vs Newcastle United
-http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier12/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzM1MTM3ODQsImV4cCI6MTc3MzUyMjc4NCwiaXAiOiIxODIuMS4yMzUuMTMyIiwidWEiOiJVVlJXTFUxRlJFbEJMekV1Tnk0ekxqWWdLRXhwYm5WNE8wRnVaSEp2YVdRZ1QxTTdJR2x1T3lBMWNtVnpNWEpuS1EiLCJpc3MiOiJxdHZfc2VydmljZSIsImlwdjYiOmZhbHNlfQ.i84-37sD_xic_r20LuR9t9uELMLlOMiy_k65HzEG_cM
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",Worldcup Tv PH
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd|drmScheme=clearkey&drmLicense=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://poster.starhubgo.com/poster/arsenal_stadium.jpg?w=960" group-title="🔴 Live Event",🔴 Arsenal vs Everton - Hub Premier 1
-http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier1/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzM1MTM3ODQsImV4cCI6MTc3MzUyMjc4NCwiaXAiOiIxODIuMS4yMzUuMTMyIiwidWEiOiJVVlJXTFUxRlJFbEJMekV1Tnk0ekxqWWdLRXhwYm5WNE8wRnVaSEp2YVdRZ1QxTTdJR2x1T3lBMWNtVnpNWEpuS1EiLCJpc3MiOiJxdHZfc2VydmljZSIsImlwdjYiOmZhbHNlfQ.i84-37sD_xic_r20LuR9t9uELMLlOMiy_k65HzEG_cM
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",DSPORT1
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
-#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&h=540" group-title="🔴 Live Event",🔴 Real Oviedo vs Valencia
-http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/BeINSportsHD/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzM1MTM3ODQsImV4cCI6MTc3MzUyMjc4NCwiaXAiOiIxODIuMS4yMzUuMTMyIiwidWEiOiJVVlJXTFUxRlJFbEJMekV1Tnk0ekxqWWdLRXhwYm5WNE8wRnVaSEp2YVdRZ1QxTTdJR2x1T3lBMWNtVnpNWEpuS1EiLCJpc3MiOiJxdHZfc2VydmljZSIsImlwdjYiOmZhbHNlfQ.i84-37sD_xic_r20LuR9t9uELMLlOMiy_k65HzEG_cM
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",RTB GO
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
-#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=960&h=540" group-title="🔴 Live Event",🔴 France vs Great Britain
-http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/beINSportsHD2/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzM1MTM3ODQsImV4cCI6MTc3MzUyMjc4NCwiaXAiOiIxODIuMS4yMzUuMTMyIiwidWEiOiJVVlJXTFUxRlJFbEJMekV1Tnk0ekxqWWdLRXhwYm5WNE8wRnVaSEp2YVdRZ1QxTTdJR2x1T3lBMWNtVnpNWEpuS1EiLCJpc3MiOiJxdHZfc2VydmljZSIsImlwdjYiOmZhbHNlfQ.i84-37sD_xic_r20LuR9t9uELMLlOMiy_k65HzEG_cM
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",VTV VN
+https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
-#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [01:44] New Zealand vs Fiji
-http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/beINSportsHD2/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzM1MTM3ODQsImV4cCI6MTc3MzUyMjc4NCwiaXAiOiIxODIuMS4yMzUuMTMyIiwidWEiOiJVVlJXTFUxRlJFbEJMekV1Tnk0ekxqWWdLRXhwYm5WNE8wRnVaSEp2YVdRZ1QxTTdJR2x1T3lBMWNtVnpNWEpuS1EiLCJpc3MiOiJxdHZfc2VydmljZSIsImlwdjYiOmZhbHNlfQ.i84-37sD_xic_r20LuR9t9uELMLlOMiy_k65HzEG_cM
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",TELEMUNDO
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master_2hr.mpd|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",RTB ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",VTV 6 VN
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",KAN 1 IL
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",Qazsport KZ
+https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
 #EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [02:06] Australia vs Canada
 http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/beINSportsHD2/output/manifest.mpd&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzM1MTM3ODQsImV4cCI6MTc3MzUyMjc4NCwiaXAiOiIxODIuMS4yMzUuMTMyIiwidWEiOiJVVlJXTFUxRlJFbEJMekV1Tnk0ekxqWWdLRXhwYm5WNE8wRnVaSEp2YVdRZ1QxTTdJR2x1T3lBMWNtVnpNWEpuS1EiLCJpc3MiOiJxdHZfc2VydmljZSIsImlwdjYiOmZhbHNlfQ.i84-37sD_xic_r20LuR9t9uELMLlOMiy_k65HzEG_cM
