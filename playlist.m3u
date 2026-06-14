@@ -17,3 +17,29 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/chann
 
 #EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",KAN 1 IL
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",FOX ONE
+https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",CAZE TV 2
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd
+
+KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",CAZE TV 3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",Fussball 1 UHD (4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://link.t-online.de/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",CT SPORT
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
