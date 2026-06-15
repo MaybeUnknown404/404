@@ -43,3 +43,31 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
 #EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",CT SPORT
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+===== NEW
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",TSN SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76
+https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",SPORZA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",FUSBALL 3 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16f590cc66a7b75be5bec7d7f9518a64:514ba9039f96dd18dc53f9c20f09f4eb
+https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_hd/DASH/index.mpd
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",CAZE TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image-cdn.hypb.st/hypebeast.com/image/2023/05/fifa-unveils-official-2026-world-cup-logo-1.jpg?w=800",MATCH TV RU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
+https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
+
