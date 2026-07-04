@@ -1,3 +1,9 @@
+#EXTINF:-1 group-logo="" group-title="📁 TVRI WC26" tvg-id="" tvg-logo="https://urbanvibes.id/wp-content/uploads/2025/12/Desain-tanpa-judul-4-5.jpg",TVRI NASIONAL
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9VFZSSV9OQVNJT05BTA.m3u8
+
+#EXTINF:-1 group-logo="" group-title="📁 TVRI WC26" tvg-id="" tvg-logo="https://urbanvibes.id/wp-content/uploads/2025/12/Desain-tanpa-judul-4-5.jpg",TVRI SPORTS
+https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9dHZyaXNwb3J0cw.m3u8
+
 #EXTINF:-1 group-logo="" group-title="📁 VOLLY" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Voli_TV.png",VOLI TV
 https://hayo.ajtv.web.id/proxy/aHR0cHM6Ly9xdHYubXkuaWQvdGVzdG9rZW4vY29tLm0zdTg_aWQ9dm9saXR2.m3u8
 
@@ -261,9 +267,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBios
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/31hNNC8DYlvWojd9s5kk1eLcgnI=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="📁 Movies V+",Citra Entertainment
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
-
-#EXTINF:-1 group-logo="" group-title="📁 Kids V+" tvg-id="" tvg-logo="https://qtv.my.id/glogo/qtvkids.png",QTV Kids
-https://prod-qtv-vod-24.onyxmedia.my.id/live/Spongebob/index.m3u8
 
 #EXTINF:-1 group-logo="" group-title="📁 Kids V+" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-l.png",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1296,12 +1299,6 @@ https://atemeshield1-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd|User-Age
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/5/5d/SindoNewsTV_2023.png" group-title="📁 Nasional+",SindoNews
-#https://qtv.my.id/ytlive/index.m3u8?id=FvpOleJDU-M&type=hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
