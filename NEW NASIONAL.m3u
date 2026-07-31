@@ -41,6 +41,13 @@ http://beetv.my.id/stream/rctiplus.m3u8?ch=inews
 http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 
 
+#EXTINF:-1 group-logo="" group-title="📁 CH PIALA AFF" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/3840px-RCTI_logo_2015.svg.png",RCTI+
+https://nontonlagi.rctiplus.id/abvia/timorvsindo/manifest.m3u8|Referer=https://www.rctiplus.com/
+
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HC69bTvTgy6Q-FhyyryjElSvdd26NLPq0vNemA1OYQ&s"group-title="📂 CH PIALA AFF",True Sports 2
+http://api.plus-server.sbs/play.php?key=1234&ch=truesporthd2
+
 #EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/otf/398x0,q70/2026/07/23/logo-asean-hyundai-cup-2026_ratio-16x9.jpg" group-title="📂 CH PIALA AFF", ONE Sports  🇵🇭
 http://gvisiontv.channell.my.id/ch/ph/ones.php/.mpd
 
